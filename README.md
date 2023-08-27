@@ -1,5 +1,5 @@
 # financeETL
-Just a simple MDCA get api from alphavantage. Developed for study purpose.
+Just a simple MACD get api from alphavantage. Developed for study purpose.
 
 ### Stock Market API, Reimagined:
 [![image](https://github.com/CharlieCidral/financeETL/assets/69029099/266010ae-65f6-4019-9def-bc89e0a844da)](https://www.alphavantage.co/)
